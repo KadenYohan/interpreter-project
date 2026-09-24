@@ -1,0 +1,10 @@
+x: integer;
+y: double;
+x:= 3;
+y:= 4 + 2.56;
+output<<"hello world";
+output<<y-x;
+if(x!=4)
+  output<<"x is not 4";
+if(x>5)
+  output<<"hidden";
